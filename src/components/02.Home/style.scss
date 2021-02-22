@@ -1,0 +1,32 @@
+
+
+.home{
+    margin-left: 12rem;
+    margin-top: 12rem;
+	z-index: 1;
+	width: 50%;
+}
+
+
+  
+  .home_me{
+	background:linear-gradient(to right, #121313, #5b86e5);;
+	width: 100%;
+	position: relative;
+	height: 1000px;
+	display: flex;
+
+  }
+  .home_me > *{
+	position: absolute;
+
+  }
+ .particles-bg{
+	 width: 100%;
+	 height: 100%;
+ }
+  
+.auto_text{
+	color: red;
+}
+  

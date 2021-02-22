@@ -1,0 +1,21 @@
+.service_text1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 150px;
+    opacity: 0.7;
+}
+.service_text1 > *{
+    bottom: 10px;
+    
+}
+.service_text1:hover{
+    opacity: 1;
+    transform: scale(1.1);
+  box-shadow: 20px 50px 100px rgba(0, 0, 0, 0.5);
+}
+
+
+
+  

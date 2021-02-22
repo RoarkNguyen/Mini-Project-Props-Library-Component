@@ -1,0 +1,50 @@
+.service_text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 150px;
+
+}
+.service_text *{
+    bottom: 10px;
+    
+}
+.service_text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 150px;
+}
+.service_text > *{
+    bottom: 10px;
+    
+}
+.service_me2{
+    opacity: 0.85;
+
+}
+.service_me2:hover{
+    opacity: 1;
+    transform: scale(1.1);
+    color: rgb(0, 18, 100);
+    box-shadow: royalblue;
+   
+}
+
+.service_button:hover{
+    color: black;
+    text-decoration: none;
+    
+}
+.link1{
+    text-decoration: none;
+}
+.link1:hover{
+    text-decoration: none;
+
+}
+
+
+  
